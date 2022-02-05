@@ -1,0 +1,7 @@
+{
+  "name": "PruebaIonicIndiana",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
